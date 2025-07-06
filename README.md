@@ -46,7 +46,9 @@ Feel free to reach out or connect:
 
 ## 👨‍💻 Currently Doing
 
-I am currently learning from CS50 Introduction to Computer Science Harvard Course
+I am currently learning from CS50 Introduction to Computer Science Harvard Course.
 https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+---
 
 > ⭐ *Thanks for stopping by! If you're learning too, feel free to fork or star the repo — let’s grow together.*
